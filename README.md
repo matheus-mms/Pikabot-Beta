@@ -9,10 +9,10 @@ Utilizando bibliotecas como a Pyautogui para as capturas de tela, e a importando
 No repositorio possui o executavel onde ao abri-lo será disponivel a interface grafica onde será realizado a configuração dos parametros para o Bot funcionar dentro do jogo. Segue abaixo imagem da Interface grafica:
 ![Interface grafica da versão Beta](https://i.postimg.cc/g0Gw5Tm6/Captura-de-tela-2024-12-10-132148.png)
 
-## Hotkeys
-
+* Hotkeys
+  * No campo da imagem abaixo será configurado em qual tecla será tilizado a função de "Love" para agradar o pokemon, a tecla para coletar os recursos do pokemon abatido, a tecla para usar a vara de pescar na agua e a tecla para usar a pokebola para capturar os pokemons abatidos.
 ![Hotkey](https://i.postimg.cc/jj9hbT5F/Hotkeys.png)
 
-Nesse campo será configurado em qual tecla será tilizado a função de "Love" para agradar o pokemon, a tecla para coletar os recursos do pokemon abatido, a tecla para usar a vara de pescar na agua e a tecla para usar a pokebola para capturar os pokemons abatidos.
+
 
 
