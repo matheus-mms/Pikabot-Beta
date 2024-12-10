@@ -6,5 +6,5 @@ Utilizando bibliotecas como a Pyautogui para as capturas de tela, e a importando
 
 # Configurações
 
-O Software possui o executavel onde ao abri-lo será disponivel a interface grafica onde será realizado a configuração dos parametros para que o Bot funcione dentro do jogo. Segue abaixo imagem da Interface grafica:
+No repositorio possui o executavel onde ao abri-lo será disponivel a interface grafica onde será realizado a configuração dos parametros para o Bot funcionar dentro do jogo. Segue abaixo imagem da Interface grafica:
 ![Interface grafica da versão Beta](https://i.postimg.cc/g0Gw5Tm6/Captura-de-tela-2024-12-10-132148.png)
