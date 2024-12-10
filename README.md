@@ -1,4 +1,4 @@
-# Resumo
+# Introdução
 
 Esse software se trata de uma versão beta para automatizar algumas funções no jogo da PokexGames, por se tratar de uma versão beta o bot pode não funcionar corretamente atualmente, sendo necessario ajustar o código no arquivo "Beta.py".
 
