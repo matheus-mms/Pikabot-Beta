@@ -42,3 +42,6 @@ A lista de spells pode ser vistas as opções de habilidades do jogo até o M12,
 Após realizado todas as configurações anteriores é necessário clicar na tecla "Save" para concluir a programação, a tecla "Save file" permite salvar um arquivo json com as configurações atuais, a tecla "Load file" permite ler um arquivo json para setar as programações, após ler as programações será necessário clicar na tecla "Save" para concluir também e por último a tecla "Start bot" que vai iniciar o bot. Existem teclas de atalho para iniciar e finalizar o bot sendo elas F11 inicia e F12 finalizar.
 
 ![Setup](https://i.postimg.cc/9fSQZ6Lq/Play.png)
+
+# Considerações finais
+Caso seja editado algum parametro no arquivo "Beta.py" esses parametros não vão ser consideradas no executavel. Nessa situação será necessario executar o arquivo através de alguma IDE como por exemplo o VS code com a extensão de Python, além disso será necessario instalar o Python e todas as dependencias e bibliotecas necessarias em sua maquina para conseguir executar o aquivo dessa forma.
