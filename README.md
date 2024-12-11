@@ -44,4 +44,4 @@ Após realizado todas as configurações anteriores é necessário clicar na tec
 ![Setup](https://i.postimg.cc/9fSQZ6Lq/Play.png)
 
 # Considerações finais
-Caso seja editado algum parametro no arquivo "Beta.py" esses parametros não vão ser consideradas no executavel. Nessa situação será necessario executar o arquivo através de alguma IDE como por exemplo o VS code com a extensão de Python, além disso será necessario instalar o Python e todas as dependencias e bibliotecas necessarias em sua maquina para conseguir executar o aquivo dessa forma.
+Caso seja editado algum parâmetro no arquivo "Beta.py" esses parâmetros não vão ser considerados no executável. Nessa situação será necessário executar o arquivo através de alguma IDE como por exemplo o VS code com a extensão de Python, além disso será necessário instalar o Python e todas as dependências e bibliotecas necessárias em sua máquina para conseguir executar o arquivo dessa forma.
