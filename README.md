@@ -4,7 +4,7 @@ Esse software se trata de uma versão beta para automatizar algumas funções re
 Utilizando bibliotecas como a Pyautogui para as capturas de tela, e a importando o arquivo "my_keyboard" que utiliza a API do windows para gerar cliques e movimento do mouse, foi possível automatiza ações como a de pescar, atacar os pokemons que aparecem na aba de battle, curar o pokemon usando as potions, entre outras.
 
 # Configurações
-O repositório possui o executável onde ao abri-lo será disponível a interface gráfica onde será realizado a configuração dos parâmetros para o Bot funcionar dentro do jogo. Segue abaixo imagem da Interface gráfica:
+O repositório possui o executável, ao abri-lo será disponível a interface gráfica onde será realizado a configuração dos parâmetros para o Bot funcionar dentro do jogo. Segue abaixo imagem da Interface gráfica:
 ![Interface grafica da versão Beta](https://i.postimg.cc/g0Gw5Tm6/Captura-de-tela-2024-12-10-132148.png)
 
 ### Hotkeys
